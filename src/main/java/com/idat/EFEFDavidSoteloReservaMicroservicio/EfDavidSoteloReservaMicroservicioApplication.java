@@ -1,14 +1,14 @@
-package com.idat.EFDavidSoteloTutistaMicroservicio;
+package com.idat.EFEFDavidSoteloReservaMicroservicio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 @SpringBootApplication
-public class EfDavidSoteloTutistaMicroservicioApplication {
+public class EfDavidSoteloReservaMicroservicioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EfDavidSoteloTutistaMicroservicioApplication.class, args);
+		SpringApplication.run(EfDavidSoteloReservaMicroservicioApplication.class, args);
 	}
 
 }
