@@ -1,10 +1,10 @@
-package com.idat.EFDavidSoteloConfigServer;
+package com.idat.EFDavidSoteloEurekaServer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EfDavidSoteloConfigServerApplicationTests {
+class EfDavidSoteloEurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {
