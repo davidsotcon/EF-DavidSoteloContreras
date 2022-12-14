@@ -1,10 +1,10 @@
-package com.idat.EFEFDavidSoteloReservaMicroservicio;
+package com.idat.EFDavidSotelohospedajeMicroservicio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EfDavidSoteloReservaMicroservicioApplicationTests {
+class EfDavidSoteloHospedajeMicroservicioApplicationTests {
 
 	@Test
 	void contextLoads() {
